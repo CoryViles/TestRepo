@@ -1,2 +1,2 @@
 ##Hello, World!
-*How are you doing on this fine day?*
+*How are you doing on this quite exquisite day?*
